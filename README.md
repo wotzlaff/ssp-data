@@ -8,7 +8,7 @@ The format is as follows:
 - each following line represents an instance written in the form <!-- $L, l_1, \dots, l_m, b_1, \dots, b_m$ --> <img src="https://render.githubusercontent.com/render/math?math=L%2C%20l_1%2C%20%5Cdots%2C%20l_m%2C%20b_1%2C%20%5Cdots%2C%20b_m">, where all values are integers separated by a tab character.
 
 The directories `A1` to `A3` and `B` contain artifical instances generated according to the method described in [[1]](#1).
-The set `C` is a collection of benchmark datasets from the literature. Details can also be found in Section 4 of [[1]](#1).
+The directories `C1` to `C3` contain other benchmark datasets from the literature. Details can also be found in Section 4 of [[1]](#1).
 
 ## References
 <a id="1">[1]</a>
